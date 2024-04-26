@@ -203,7 +203,7 @@ const projects = [
       },
     ],
     image: eccomerceApp,
-    source_code_link: "https://frontend-ecommerce-ts.vercel.app/",
+    source_code_link: "https://frontend-ecommerce-ts.vercel.app",
   },
   {
     name: "Chat App",
